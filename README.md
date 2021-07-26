@@ -51,7 +51,7 @@
         1. For example, the hardest part about econ courses is understanding the mathematical models used
     1. You don't need a perfect GPA
         1. Better to take a hard course and get a B/C than an easy course and get an A
-        1. Google's VP in charge of hiring people has says ["GPA’s are worthless as a criteria for hiring, and test scores are worthless" because they don’t predict how productive an employee will be.](https://www.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html)
+        1. Google's VP in charge of hiring people says ["GPA’s are worthless as a criteria for hiring, and test scores are worthless" because they don’t predict how productive an employee will be.](https://www.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html)
         1. Failure is actually good ([it's Amazon's secret to success](https://www.businessinsider.com/how-amazon-ceo-jeff-bezos-thinks-about-failure-2016-5#this-tolerance-for-failure-is-deeply-ingrained-in-amazons-culture-its-a-point-bezos-has-made-every-year-since-the-very-first-amazon-shareholder-letter-in-1997-we-will-continue-to-measure-our-programs-and-the-effectiveness-of-our-investments-analytically-to-jettison-those-that-do-not-provide-acceptable-returns-and-to-step-up-our-investment-in-those-that-work-best-we-will-continue-to-learn-from-both-our-successes-and-our-failures-17))
 1. Get to know at least 1 prof in each department well
     1. This prof can be your informal advisor on which classes to take in their field
@@ -61,15 +61,19 @@
            but they often complain about students NOT coming
     1. If you want to do research with a professor, 
        ask them "how can I help make your research more productive?"
-1. Get 8+ hours of sleep *every night*
-    1. I slept 10 hours/day in undergrad
-    1. I avoid coffee/soda
-    1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768102/
+1. Stay healthy
+    1. Get 8+ hours of sleep *every night*
+        1. all-nighters work in the short term, but not the long term
+    1. Regular exercise
+        1. good for your brain
+        1. avoid the freshman 15... CMC has *good* food...
+    1. I personally avoid coffee/soda
+    1. https://www.reddit.com/r/nootropics/wiki/beginners
 
 **Other links:**
 1. Salaries for computer / data science positions
     1. https://www.levels.fyi/
-1. More advice:
+1. General college advice for math / cs / ds majors:
     1. http://www.paulgraham.com/college.html
     1. https://math.stackexchange.com/questions/692609/how-to-be-a-successful-math-undergraduate-student
     1. https://math.stackexchange.com/questions/1041623/advice-to-young-mathematicians#
@@ -79,5 +83,3 @@
 1. Russian webpages hosting free college books:
     1. https://b-ok.org/
     1. https://sci-hub.tw/
-1. Fun
-    1. https://www.hpmor.com/
