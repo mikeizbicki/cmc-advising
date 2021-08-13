@@ -32,7 +32,7 @@
         1. majors/sequences that you are interested in
         1. extracurriculars that you're interested in
         1. any other goals I might be able to help with
-    1. Use the [course catalog](https://catalog.claremontmckenna.edu/) to select classes that you might like to take in the fall
+    1. Use the [course catalog](https://catalog.claremontmckenna.edu/) and [course section list](https://www.cmc.edu/registrar/course-schedules) to select classes that you might like to take in the fall, including times
         1. Select a language course
         1. Select a math course (see the [flowchart](math-placement-flowchart.pdf))
         1. Select at least 3 freshman writing/humanities seminar (FWS/FHS) courses
