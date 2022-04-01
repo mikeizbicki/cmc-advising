@@ -45,6 +45,15 @@
 1. Based on these selections, we will create a fall schedule for you in the 1-1 meeting
 
 **General advice for college:**
+1. Scott Adam (Dilbert)'s [career advice](https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html):
+
+    > If you want something extraordinary, you have two paths:
+    > 
+    > 1. Become the best at one specific thing.
+    > 2. Become very good (top 25%) at two or more things
+    >
+    > Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix.
+
 1. How to select classes
     1. Take lots of classes in different fields of study
         1. The more math you take, the easier all the non-math courses become
